@@ -5,14 +5,22 @@
 /// Nothing is beyond my reach.
 ///
 /// The intent of this program is to:
+///    - Use what you learned in Lab 2c
 ///    - Write a simple algorithm in C
 ///    - Remember everything you've forgotten about programming
+///    - Learn to count with your tentacles
 ///
-/// Compile: $ gcc -o octocat octocat.c
+/// Compile: $ make octocat && ./octocat
 ///
 /// Example:
 ///   $ ./octocat
-///   XXXXX
+///     0:--------   1:-------*   2:------*-   3:------**   4:-----*--   5:-----*-*   6:-----**-   7:-----*** 
+///     8:----*---   9:----*--*  10:----*-*-  11:----*-**  12:----**--  13:----**-*  14:----***-  15:----**** 
+///    16:---*----  17:---*---*  18:---*--*-  19:---*--**  20:---*-*--  21:---*-*-*  22:---*-**-  23:---*-*** 
+///   ...
+///   232:***-*--- 233:***-*--* 234:***-*-*- 235:***-*-** 236:***-**-- 237:***-**-* 238:***-***- 239:***-**** 
+///   240:****---- 241:****---* 242:****--*- 243:****--** 244:****-*-- 245:****-*-* 246:****-**- 247:****-*** 
+///   248:*****--- 249:*****--* 250:*****-*- 251:*****-** 252:******-- 253:******-* 254:*******- 255:******** 
 ///
 /// @file    octocat.c
 /// @author  @todo yourName <@todo yourMail@hawaii.edu>
