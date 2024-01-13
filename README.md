@@ -1,7 +1,7 @@
 ee205_lab2d_octocat
 ===================
 
-Its time to write a C program on your own.
+It's time to write a C program on your own.
 
 The goal of this lab is to:
   1. Use what you learned in Lab 2c
@@ -82,7 +82,6 @@ To get started, accept the assignment and then clone your repo:
 
 Do the lab.  When you're ready to turn it in:
 
-    $ history > history 
     $ git status
     $ git add .
     $ git status
