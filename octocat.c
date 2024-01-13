@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////
 //          University of Hawaii, College of Engineering
-//          Lab 2d - Octocat - EE 205 - Spring 2023
+//          Lab 2d - Octocat - EE 205 - Spring 2024
 //
 /// Nothing is beyond my reach.
 ///

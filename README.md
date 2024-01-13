@@ -18,9 +18,9 @@ The second tentacle is 2.  If both the first and second are up, that's 3.
 If the 3rd tentacle is up, that's 4.  Each tentacle has a value.  
 When the "up" tentacles are added together, that's the number it's thinking of.
 
-| Tentacle       | First | Second | Third | Fourth | Fifth | Sixth | Seventh | Eighth |
-|----------------|:-----:|:------:|:-----:|:------:|:-----:|:-----:|:-------:|:------:|
-| Additive Value |   1   |    2   |   4   |    8   |   16  |   32  |    64   |   128  |
+| Tentacle       | Eighth | Seventh | Sixth | Fifth | Fourth | Third | Second | First |
+|----------------|:------:|:-------:|:-----:|:-----:|:------:|:-----:|:------:|:-----:|
+| Additive Value |   128  |   64    |  32   |  16   |    8   |    4  |    2   |   1   |
 
 When all 8 tentacles are up, it has counted to 255!
 
