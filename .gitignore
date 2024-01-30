@@ -38,3 +38,6 @@ octocat.c
 *.app
 octocat
 octocat2
+
+# Doxygen documentation
+html/

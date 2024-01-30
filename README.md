@@ -1,6 +1,8 @@
 ee205_lab4b_octocat 2
 =====================
 
+Nothing is beyond my reach
+
 ![Octocat 2](https://www2.hawaii.edu/~marknels/ee205/images/ee205_lab4b_octocat2_400.png)
 
 | **Estimated time to complete** | 1 hour | **Prerequisites** | Lab 2d - Octocat                        |
@@ -22,6 +24,8 @@ To start this lab:
 We will only grade `octocat2.c`
 
 ...with the following command:  `$ clang -o octocat2 -Wall octocat2.c`
+
+Document the program with `$ doxygen .doxygen/Doxyfile`
 
 Lint the program with `$ clang-tidy octocat2.c --`
 
