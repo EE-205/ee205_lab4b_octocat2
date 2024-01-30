@@ -1,6 +1,6 @@
 ###############################################################################
-###               University of Hawaii, College of Engineering
-###               Lab 2d - Octocat - EE 205 - Spring 2024
+### University of Hawaii, College of Engineering
+### Lab 4b - Octocat 2 - EE 205 - Spring 2024
 ###
 ### Tells git which files to ignore
 ###
@@ -29,9 +29,12 @@
 # Ignore core dumps
 core
 
+# Old Octocat files
+octocat.c
+
 # Executables
 *.exe
 *.out
 *.app
-octocat*
-
+octocat
+octocat2
